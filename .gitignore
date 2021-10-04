@@ -2,4 +2,6 @@
 **/*.pkl
 .tif
 .nc
+rcew_dem_5m_*
+**/*.zip
 
